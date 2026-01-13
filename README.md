@@ -1,9 +1,7 @@
 ## Hello , I am Anand Singh
+   I am a Computer Science student passionate about DSA and Web Applications.
 
-<!--
-**anandsingh53/anandsingh53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 💫 About Me:
 
 - 🧑‍🎓 Pre-final year student at KIIT
 - 🌱 I’m currently learning DSA and exploring Machine learning 
