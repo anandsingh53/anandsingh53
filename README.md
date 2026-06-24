@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 
-- 🧑‍🎓 Pre-final year student at KIIT
+- 🧑‍🎓 Final year student at KIIT
 - 🌱 I’m currently learning DSA and exploring Machine learning 
 - 👯 I’m looking to collaborate on Web development projects 
 - 💬 Ask me about DSA, web development, Machine learning and Graphic Designing
